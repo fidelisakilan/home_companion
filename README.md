@@ -1,16 +1,9 @@
 # home_companion
 
-A new Flutter project.
+An App that could keep track of your building stats such as Energy savings, Water,Temperature.
+# Screenshots
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|<img src="screenshots/Screenshot_20210221-225942.png" width =200>|
+<img src="screenshots/Screenshot_20210221-225950.png" width =200>|
+<img src="screenshots/Screenshot_20210221-230004.png" width =200>|
+<img src="screenshots/Screenshot_20210221-231333.png" width =200>|
